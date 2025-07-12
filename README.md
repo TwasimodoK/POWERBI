@@ -2,10 +2,10 @@
 
 A comprehensive Power BI dashboard analyzing hospital emergency room (ER) performance metrics. The dashboard visualizes patient traffic, waiting time, satisfaction scores, admission stats, demographics, and more, providing actionable insights to improve hospital management and decision-making.
 
-##📊 Overview
+📊 Overview
 This project focuses on visualizing and analyzing data from a hospital emergency department for the period 09-06-2023 to 29-10-2024, using Power BI. It is designed for healthcare administrators, analysts, and policy-makers to monitor KPIs and improve service delivery in real-time.
 
-## 🚀 Key Features
+🚀 Key Features
 Total Patients Handled: 8092
 
 Average Wait Time: 35.3 minutes
@@ -31,7 +31,7 @@ Race/ethnicity
 Department-wise Referral Analysis
 
 
-##🧰 Tools & Technologies Used
+🧰 Tools & Technologies Used
 Power BI Desktop
 
 DAX (Data Analysis Expressions)
@@ -40,7 +40,7 @@ Excel (Data Source)
 
 Data Modeling and Visualization
 
-##📈 Use Cases
+📈 Use Cases
 Hospital administrators to monitor ER performance
 
 Data analysts to derive trends in patient load
@@ -49,7 +49,7 @@ Policymakers to assess public healthcare delivery
 
 Researchers studying wait time and patient behavior
 
-##📝 Insights Derived
+📝 Insights Derived
 Balanced admission ratio (~50% admitted)
 
 Longest wait times observed during early mornings and late evenings
@@ -62,7 +62,7 @@ Majority patients belong to the 30–49 age group
 
 Demographic spread indicates higher inflow from White and African American patients
 
-##📎 How to Use
+📎 How to Use
 Open the .pbix file in Power BI Desktop
 
 Explore the two report pages: Monthly View and Consolidated View
@@ -71,7 +71,7 @@ Use date filters and slicers to analyze specific time periods or patient demogra
 
 Modify or expand visuals depending on your use case
 
-##💡 Future Enhancements
+💡 Future Enhancements
 Real-time data integration from hospital systems
 
 Predictive analytics for wait times and admission rates
